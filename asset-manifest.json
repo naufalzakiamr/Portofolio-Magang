@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portofolio-Magang/static/css/main.62b8b122.css",
+    "main.js": "/Portofolio-Magang/static/js/main.c841eb3b.js",
+    "static/media/profile.jpg": "/Portofolio-Magang/static/media/profile.c70af848df6986579580.jpg",
+    "static/media/project2.jpg": "/Portofolio-Magang/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/Portofolio-Magang/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/Portofolio-Magang/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/project5.jpg": "/Portofolio-Magang/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/project6.jpg": "/Portofolio-Magang/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/Portofolio-Magang/index.html",
+    "static/media/logo.svg": "/Portofolio-Magang/static/media/logo.13db583b08f02655f405451b583ec0a9.svg",
+    "static/media/logo2.svg": "/Portofolio-Magang/static/media/logo2.f6597deaa5021b71f839c27ecf425ae2.svg",
+    "main.62b8b122.css.map": "/Portofolio-Magang/static/css/main.62b8b122.css.map",
+    "main.c841eb3b.js.map": "/Portofolio-Magang/static/js/main.c841eb3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b8b122.css",
+    "static/js/main.c841eb3b.js"
+  ]
+}
