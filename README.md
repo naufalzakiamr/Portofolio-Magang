@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Developer Portfolio template
 #### Live Demo https://react-portfolio-v1.netlify.app/
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
@@ -53,3 +54,6 @@ export const projectDetails = [ ... ];
 // Enter your Contact Details here
 export const contactDetails = { ... };
 ```
+=======
+# Portofolio-Magang
+>>>>>>> 5994eb4faf9e842bfca2de1941cfb7a70b482b85
